@@ -1,27 +1,20 @@
---------------------------------------------------------------------------------------
-Hi, I’m Curtis-Thomas, 
+Hi, I'm Curtis-Thomas!
 
-Im currently using React and MERN.
+I'm a software developer currently working with React and MERN stack.
 
---------------------------------------------------------------------------------------
-My Current projects:
+My Current Projects:
 
-MealSync 
+MealSync
 
-A free web based weekly meal planning app built with MERN Stack and uses Material UI.
+A free web-based weekly meal planning app built with MERN stack and utilizes Material UI.
 
-https://mealsync.io/
-
-
+Check it out: MealSync
 
 free-api-list-with-react
 
-Open source git repo with free API resource. 
+An open-source GitHub repository with a collection of free API resources. The project provides a curated list of usable endpoints organized into different categories and includes tools to test them. The front-end is built with React and Material UI.
 
-A collection of usable endpoints organised into different catagories and tools to test, Front End built with React and Material UI.
-
-https://curtis-thomas.github.io/free-api-list-with-react/
-
+Explore it here: free-api-list-with-react
 
 <!---
 Curtis-Thomas/Curtis-Thomas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
