@@ -6,9 +6,6 @@ I'm a software developer currently working with React and MERN stack.
 --------------------------------------------------------------------------------------
 My Current Projects:
 
-[MealSync](https://mealsync.io/)
-
-A free web-based weekly meal planning app built with MERN stack and utilizes Material UI.
 
 [free-api-list-with-react](https://curtis-thomas.github.io/free-api-list-with-react/)
 
