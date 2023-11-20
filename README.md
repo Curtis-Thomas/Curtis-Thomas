@@ -1,3 +1,6 @@
+![Banner Image](https://raw.githubusercontent.com/Curtis-Thomas/Curtis-Thomas/main/readmeHero.png)
+
+
 --------------------------------------------------------------------------------------
 Hi, I'm Curtis-Thomas!
 
