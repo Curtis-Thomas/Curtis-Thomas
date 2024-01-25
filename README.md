@@ -1,12 +1,18 @@
-![Banner Image](https://raw.githubusercontent.com/Curtis-Thomas/Curtis-Thomas/main/readmeHero.png)
-
-
---------------------------------------------------------------------------------------
 Hi, I'm Curtis-Thomas!
 
-I'm a software developer currently working with React and MERN stack.
+I'm a software developer currently focusing on React and Material UI.
+
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://material-ui.com/)
 
 --------------------------------------------------------------------------------------
+
+[![Curtis's GitHub stats](https://github-readme-stats.vercel.app/api?username=curtis-thomas&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curtis-thomas&theme=radical)
+
+
+--------------------------------------------------------------------------------------
+
 My Current Projects:
 
 
