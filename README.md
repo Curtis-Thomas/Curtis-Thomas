@@ -16,6 +16,18 @@ I'm a software developer currently focusing on React and Material UI.
 My Current Projects:
 
 
+[vetrl](https://vetrl.com/)
+
+Free Online Veterinary Client Management. Built with Next Js, TypeScript, React, Material Ui, Redux
+
+
+
+[suomi notes](https://suomi-notes.netlify.app/)
+
+Free open-source Finnish language platform.
+
+
+
 [free-api-list](https://freeapilist.com/)
 
 An open-source GitHub repository with a collection of free API resources. The project provides a curated list of usable endpoints organized into different categories and includes tools to test them. The front-end is built with React and Material UI.
