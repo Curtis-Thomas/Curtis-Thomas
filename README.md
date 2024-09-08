@@ -18,7 +18,7 @@ My Current Projects:
 
 [vetrl](https://vetrl.com/)
 
-Free Online Veterinary Client Management. Built with Next Js, TypeScript, React, Material Ui, Redux
+Online Veterinary Client Management Tool.
 
 
 
