@@ -16,15 +16,15 @@ I'm a software developer currently focusing on React and Material UI.
 My Current Projects:
 
 
+[ToneAdvisor](https://toneadvisor.com/)
+
+AI powered email analysis platform built with Next 15.
+
+
+
 [vetrl](https://vetrl.com/)
 
 Online Veterinary Client Management Tool.
-
-
-
-[suomi notes](https://suomi-notes.netlify.app/)
-
-Free open-source Finnish language platform.
 
 
 
