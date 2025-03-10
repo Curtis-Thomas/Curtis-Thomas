@@ -18,14 +18,7 @@ My Current Projects:
 
 [ToneAdvisor](https://toneadvisor.com/)
 
-AI powered email analysis platform built with Next 15.
-
-
-
-[vetrl](https://vetrl.com/)
-
-Online Veterinary Client Management Tool.
-
+AI powered email prioritization platform built with Next 15.
 
 
 [free-api-list](https://freeapilist.com/)
