@@ -16,7 +16,7 @@ I'm a software developer currently focusing on React and Material UI.
 My Current Projects:
 
 
-[ToneAdvisor](https://toneadvisor.com/)
+[MailSped](https://mailsped.com/)
 
 AI powered email prioritization platform built with Next 15.
 
