@@ -1,9 +1,12 @@
 Hi, I'm Curtis-Thomas!
 
-I'm a software developer currently focusing on React and Material UI.
+I'm a software developer currently focusing on:
 
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://material-ui.com/)
+Frontend: Next.js, React, Material UI
+
+Backend: Node.js, MongoDB
+
+Workflow: Project Management, Product Management
 
 --------------------------------------------------------------------------------------
 
