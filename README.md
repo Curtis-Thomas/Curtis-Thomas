@@ -24,6 +24,9 @@ Workflow: Project Management, Product Management
 
 ### My Current Projects:
 
+[Trusted Cofounder](https://www.trustedcofounder.com/)
+Digital startup matchmaking platform.
+
 [Notabeen AI Email Assistant](https://NotaBeen.com/)
 OpenSource AI-powered email prioritization platform built with Next 15.
 
