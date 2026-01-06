@@ -21,6 +21,3 @@ Workflow: Project Management, Product Management
 
 [Trusted Cofounder](https://www.trustedcofounder.com/)
 Digital startup matchmaking platform.
-
-[free-api-list](https://freeapilist.com/)
-An open-source GitHub repository with a collection of free API resources. The project provides a curated list of usable endpoints organized into different categories and includes tools to test them. The front-end is built with React and Material UI.
