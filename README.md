@@ -17,11 +17,6 @@ Workflow: Project Management, Product Management
 
 ---
 
-[![Curtis's GitHub stats](https://github-readme-stats.vercel.app/api?username=curtis-thomas&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curtis-thomas&theme=radical)
-
----
-
 ### My Current Projects:
 
 [Trusted Cofounder](https://www.trustedcofounder.com/)
