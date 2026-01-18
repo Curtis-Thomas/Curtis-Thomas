@@ -16,6 +16,11 @@ Workflow: Project Management, Product Management
 * **Soft Skills:** Leadership, Team Work, Communication, Networking, Public Speaking, Time Management, Personal Development
 
 ---
+## GitHub Stats
+![yipfram's GitHub stats](https://own-github-readme-stats-six.vercel.app/api?username=Curtis-Thomas)
+![Top Langs](https://own-github-readme-stats-six.vercel.app/api/top-langs/?username=Curtis-Thomas&layout=compact)
+
+---
 
 ### My Current Projects:
 
