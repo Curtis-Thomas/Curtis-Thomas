@@ -17,7 +17,7 @@ Workflow: Project Management, Product Management
 
 ---
 ## GitHub Stats
-![yipfram's GitHub stats](https://own-github-readme-stats-six.vercel.app/api?username=Curtis-Thomas)
+![Curtis-Thomas's GitHub stats](https://own-github-readme-stats-six.vercel.app/api?username=Curtis-Thomas)
 ![Top Langs](https://own-github-readme-stats-six.vercel.app/api/top-langs/?username=Curtis-Thomas&layout=compact)
 
 ---
@@ -25,4 +25,4 @@ Workflow: Project Management, Product Management
 ### My Current Projects:
 
 [Trusted Cofounder](https://www.trustedcofounder.com/)
-Digital startup matchmaking platform.
+AI-powered cofounder matching platform for Finland's startup ecosystem. Built solo with React, Node.js, and AI-assisted workflows. Source private (commercial product); live demo available on request.
